@@ -1,0 +1,9 @@
+A | 3500| 4200| 5300| 6300
+B | 2500| 3100| 6200| 7500
+
+The optimal solution is: 6300
+
+A: -| B| B| A
+B: -| B| B| A
+
+The optimal path is: BBAA
